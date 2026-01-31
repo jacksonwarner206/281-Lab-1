@@ -1,5 +1,4 @@
 # ECE 281 Lab 1 Prelab
-
 ## Prelab questions
 
 ### Truth Table
@@ -20,12 +19,13 @@
 | Nov   | 1 | 0 | 1 | 1 | 0 |
 | Dec   | 1 | 1 | 0 | 0 | 1 |
 |       | 1 | 1 | 0 | 1 | x |
+|       | 1 | 1 | 1 | 0 | x |
 |       | 1 | 1 | 1 | 1 | x |
 
 ### Boolean Equation
 
 $$
-Y = AB'D'+AC'D'+A'D
+Y = A'D+AB+AB'D'
 $$
 
 ### Digital Simulations
