@@ -43,3 +43,8 @@ You may also wish to run test cases.  The first two rows of the truth table have
 3. Push to GitHub
 4. Submit to Gradescope
 5. Verify submission
+
+
+## doc statement
+
+I checked my work with C3C Byers in my squad and figured out that I messed up my K-map so had to redo most of my stuff. 
